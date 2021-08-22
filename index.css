@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+   background-color: lightsalmon
+   
+}
+
+
+.margin{
+    margin: 3%;
+}
+@media screen and( min-width:567px){
+    .modified{
+        width:100%
+    }
+}
+.span{
+    font-style: italic;
+}
